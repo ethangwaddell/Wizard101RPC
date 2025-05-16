@@ -1,0 +1,270 @@
+{
+    "Bosses": [
+        {
+            "developer_name": "Ghost-Red-WCBoss-L03",
+            "actual_name": "Foulgaze"
+        },
+        {
+            "developer_name": "Wraith-WCBoss-L05",
+            "actual_name": "Lord Nightshade"
+        },
+        {
+            "developer_name": "Skeleton-Silver-WCBoss-L01",
+            "actual_name": "Rattlebones"
+        },
+        {
+            "developer_name": "KrokPharaoh-FireHair-KTBoss-L03",
+            "actual_name": "Biti Nirini"
+        },
+        {
+            "developer_name": "KrokPharaoh-FireTut-KTBoss-L03",
+            "actual_name": "Nirini Quartermaster"
+        },
+        {
+            "developer_name": "Kraken-WCBoss-L15",
+            "actual_name": "Storm Kraken"
+        },
+        {
+            "developer_name": "Sunbird-WCBoss-L15",
+            "actual_name": "Fire Crow"
+        },
+        {
+            "developer_name": "KrokPharaoh-FireBird-KTBoss-L03",
+            "actual_name": "Edo Nirini"
+        },
+        {
+            "developer_name": "KrokMummy-Fire-KTBoss-L03",
+            "actual_name": "Akori Nirini"
+        },
+        {
+            "developer_name": "KrokPharaoh-FireCloth-KTBoss-L03",
+            "actual_name": "Shai Nirini"
+        },
+        {
+            "developer_name": "KrokPharaoh-FirePony-KTBoss-L03",
+            "actual_name": "Nebit Nirini"
+        },
+        {
+            "developer_name": "KrokPharaoh-FireTut-KTBoss-L04",
+            "actual_name": "Prince Manu Nirini"
+        },
+        {
+            "developer_name": "KrokPharaoh-IceCloth-KTBoss-L03",
+            "actual_name": "Nekhbet"
+        },
+        {
+            "developer_name": "KrokTut-Fire-L04",
+            "actual_name": "Krokenkahmen"
+        },
+        {
+            "developer_name": "Ghost-Blue-KTBoss-L03",
+            "actual_name": "Soul Scavenger"
+        },
+        {
+            "developer_name": "KrokPharaoh-IceTut-KTBoss-L03",
+            "actual_name": "Odji Sokkwi"
+        },
+        {
+            "developer_name": "Sunbird-KTBoss-L03",
+            "actual_name": "Wild Sunbird"
+        },
+        {
+            "developer_name": "Ghost-Green-WCBoss-L02",
+            "actual_name": "Lady Blackhope"
+        },
+        {
+            "developer_name": "Troll-Green-KTBoss-L02",
+            "actual_name": "Krag Stonechin"
+        },
+        {
+            "developer_name": "Cyclops-BlueHelmet-KTBoss-L03",
+            "actual_name": "Bort Malletmane"
+        },
+        {
+            "developer_name": "KrokBurly-Fire-KTBoss-L03",
+            "actual_name": "Nirini Champion"
+        },
+        {
+            "developer_name": "KrokBurly-Ice-Ghost-Elite-L04",
+            "actual_name": ""
+        },
+        {
+            "developer_name": "KrokBurly-Ice-Ghost-Elite-L04",
+            "actual_name": "Soulkeeper"
+        },
+        {
+            "developer_name": "Cyclops-RedHelmet-KTBoss-L28",
+            "actual_name": "Pike Spiritcrusher"
+        },
+        {
+            "developer_name": "Gobbler-Green-Baron-L04",
+            "actual_name": "Prince Gobblestone"
+        },
+        {
+            "developer_name": "GH-Bear-Warrior-4-GHBoss-R4",
+            "actual_name": "Yngvar Sharptooth"
+        },
+        {
+            "developer_name": "GH-Sprite-Dark-Queen-GHBoss-R4",
+            "actual_name": "Frithir"
+        },
+        {
+            "developer_name": "GH-Boar-4-GHBoss-R4",
+            "actual_name": "Bloodseeker"
+        },
+        {
+            "developer_name": "GH-Spider-Black-GHBoss-R4",
+            "actual_name": "Gnissa"
+        }
+    ],
+    "Minions": [
+        {
+            "developer_name": "Golem-Wood-L01",
+            "actual_name": "Wooden Construct"
+        },
+        {
+            "developer_name": "Golem-Clockwork-L01",
+            "actual_name": "Clockwork Golem"
+        },
+        {
+            "developer_name": "Golem-Steel-L02",
+            "actual_name": "Iron Golem"
+        },
+        {
+            "developer_name": "Scarecrow-L03",
+            "actual_name": "Field Guard"
+        },
+        {
+            "developer_name": "Ghost-Blue-L01",
+            "actual_name": "Lost Soul"
+        },
+        {
+            "developer_name": "Skeleton-Pirate-L01",
+            "actual_name": "Skeletal Pirate"
+        },
+        {
+            "developer_name": "WC-UW-Sprite-Dark-L01",
+            "actual_name": "Dark Fairy"
+        },
+        {
+            "developer_name": "KrokPharaoh-FirePony-L02",
+            "actual_name": "Nirini Scout"
+        },
+        {
+            "developer_name": "KrokPharaoh-FireCloth-L03-1",
+            "actual_name": "Desert Golem"
+        },
+        {
+            "developer_name": "KrokPharaoh-FireBird-L02",
+            "actual_name": "Nirini Sentry"
+        },
+        {
+            "developer_name": "KrokSalamander-Fire-L02",
+            "actual_name": "Charmed Slave"
+        },
+        {
+            "developer_name": "KrokPharaoh-FireCloth-L03",
+            "actual_name": "Flame Servant"
+        },
+        {
+            "developer_name": "KrokBurly-Fire-L03",
+            "actual_name": "Nirini Warrior"
+        },
+        {
+            "developer_name": "KrokMummy-Fire-Elite-L03",
+            "actual_name": "Krokomummy"
+        },
+        {
+            "developer_name": "KrokTut-GuardFire-Elite-L03",
+            "actual_name": "Nirini House Guard"
+        },
+        {
+            "developer_name": "KrokTut-Fire-L04",
+            "actual_name": "Nirini House Guard"
+        },
+        {
+            "developer_name": "Ghost-Red-Elite-L03",
+            "actual_name": "Nirini Fire Spirit"
+        },
+        {
+            "developer_name": "KrokSalamander-Ice-L02",
+            "actual_name": "Hall Servant"
+        },
+        {
+            "developer_name": "KrohPharaoh-IceBird-L02",
+            "actual_name": "Sokkwi Protector"
+        },
+        {
+            "developer_name": "KrokBurly-Ice-L03",
+            "actual_name": "Sokkwi Crusher"
+        },
+        {
+            "developer_name": "Colossus-Ice-L17",
+            "actual_name": "Glacial Avenger"
+        },
+        {
+            "developer_name": "Spider-Crystal-L16",
+            "actual_name": "Ice Weaver"
+        },
+        {
+            "developer_name": "KrokPharaoh-IcePony-L03",
+            "actual_name": "Sokkwi Ripper"
+        },
+        {
+            "developer_name": "WC-UW-Skeleton-Pirate-L01",
+            "actual_name": "Skeletal Corsair"
+        },
+        {
+            "developer_name": "KrokBurly-Ice-L03-1",
+            "actual_name": "Sand Stalker"
+        },
+        {
+            "developer_name": "KrokPharaoh-IceCloth-L03",
+            "actual_name": ""
+        },
+        {
+            "developer_name": "KrokPharaoh-IceCloth-L03",
+            "actual_name": "Sokkwi Gouger"
+        },
+        {
+            "developer_name": "KrokSalamander-Ice-Ghost-L02",
+            "actual_name": "Soul of the Charmed"
+        },
+        {
+            "developer_name": "KrokSalamander-Ice-Ghost-L02",
+            "actual_name": ""
+        },
+        {
+            "developer_name": "Cyclops-Red-L12",
+            "actual_name": "Veteran Sellsword"
+        },
+        {
+            "developer_name": "Gobbler-Hick-Skinny-L02",
+            "actual_name": "Gobbler Scavenger"
+        },
+        {
+            "developer_name": "GH-Bear-Scout-1-R3",
+            "actual_name": "Troubled Warrior"
+        },
+        {
+            "developer_name": "GH-Imp-Green-R3",
+            "actual_name": "Forest Pest"
+        },
+        {
+            "developer_name": "GH-Boar-2-R4",
+            "actual_name": "Splithoof Rager"
+        },
+        {
+            "developer_name": "GH-Boar-1-R3",
+            "actual_name": "Splithoof Barbarian"
+        },
+        {
+            "developer_name": "GH-Spider-Crystal-R4",
+            "actual_name": "Webwood Creeper"
+        },
+        {
+            "developer_name": "GH-Imp-Brown-R4",
+            "actual_name": "Deep Woods Imp"
+        }
+    ]
+}
