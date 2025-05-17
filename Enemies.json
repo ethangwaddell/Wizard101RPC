@@ -86,10 +86,6 @@
         },
         {
             "developer_name": "KrokBurly-Ice-Ghost-Elite-L04",
-            "actual_name": ""
-        },
-        {
-            "developer_name": "KrokBurly-Ice-Ghost-Elite-L04",
             "actual_name": "Soulkeeper"
         },
         {
@@ -115,6 +111,90 @@
         {
             "developer_name": "GH-Spider-Black-GHBoss-R4",
             "actual_name": "Gnissa"
+        },
+        {
+            "developer_name": "Banshee-Blue-WCBoss-L18",
+            "actual_name": "Melweena Smite"
+        },
+        {
+            "developer_name": "WC_Horse_Mercenary_Roberto",
+            "actual_name": "Roberto"
+        },
+        {
+            "developer_name": "Kraken-WCBoss-L03",
+            "actual_name": "Kraken"
+        },
+        {
+            "developer_name": "Skeleton-Gold-WCBoss-L03",
+            "actual_name": "Sergeant Skullsplitter"
+        },
+        {
+            "developer_name": "KrokMummy-Ice-KTBoss-L03",
+            "actual_name": "Itennu Sokkwi"
+        },
+        {
+            "developer_name": "KrokBurly-Ice-KTBoss-L04",
+            "actual_name": "Khai Amahte the Great"
+        },
+        {
+            "developer_name": "Banshee-Red-Elite-L03-1",
+            "actual_name": "Defender of the Fang"
+        },
+        {
+            "developer_name": "Banshee-Red-Elite-L03-2",
+            "actual_name": "Protector of the Fang"
+        },
+        {
+            "developer_name": "Banshee-Blue-KTBoss-L04",
+            "actual_name": "Keeper of the Fang"
+        },
+        {
+            "developer_name": "KrokPharaoh-IceBand-KTBoss-L03",
+            "actual_name": "Prince Suten Sokkwi"
+        },
+        {
+            "developer_name": "KrokPharaoh-IceCloth-KTBoss-L03-1",
+            "actual_name": "Overseer Paniwi"
+        },
+        {
+            "developer_name": "Colossus-KTBoss-L03",
+            "actual_name": "Sokkwi Keymaster"
+        },
+        {
+            "developer_name": "KrokTut-Ice-KTBoss-L04",
+            "actual_name": "Krokhotep"
+        },
+        {
+            "developer_name": "KrokBurly-StormGhost-KTBoss-L04",
+            "actual_name": "King Uro Ahnic"
+        },
+        {
+            "developer_name": "KrokPharaoh-StormTutGhost-KTBoss-L04",
+            "actual_name": "King Shemet Djeserit"
+        },
+        {
+            "developer_name": "KrokPharaoh-StormPony-KTBoss-L03",
+            "actual_name": "Prince Mkhai Karanahn"
+        },
+        {
+            "developer_name": "KrokPharaoh-StormBird-KTBoss-L03",
+            "actual_name": "Prince Meti Karanahn"
+        },
+        {
+            "developer_name": "KrokPharaoh-StormCloth-KTBoss-L03",
+            "actual_name": "Prince Ati Karanahn"
+        },
+        {
+            "developer_name": "KrokBurly-Storm-KTBoss-L04-1",
+            "actual_name": "Prince Aka Karanahn"
+        },
+        {
+            "developer_name": "Ghost-Yellow-KTBoss-L03",
+            "actual_name": "Tempestra"
+        },
+        {
+            "developer_name": "KrokMummy-Storm-KTBoss-L03",
+            "actual_name": "Soulsapper"
         }
     ],
     "Minions": [
@@ -220,19 +300,11 @@
         },
         {
             "developer_name": "KrokPharaoh-IceCloth-L03",
-            "actual_name": ""
-        },
-        {
-            "developer_name": "KrokPharaoh-IceCloth-L03",
             "actual_name": "Sokkwi Gouger"
         },
         {
             "developer_name": "KrokSalamander-Ice-Ghost-L02",
             "actual_name": "Soul of the Charmed"
-        },
-        {
-            "developer_name": "KrokSalamander-Ice-Ghost-L02",
-            "actual_name": ""
         },
         {
             "developer_name": "Cyclops-Red-L12",
@@ -265,6 +337,78 @@
         {
             "developer_name": "GH-Imp-Brown-R4",
             "actual_name": "Deep Woods Imp"
+        },
+        {
+            "developer_name": "Colossus-Sand-KTBoss-L35",
+            "actual_name": "Sands of Time"
+        },
+        {
+            "developer_name": "Ghost-Blue-L02",
+            "actual_name": "Haunted Minion"
+        },
+        {
+            "developer_name": "WC_Scarecrow_A_01",
+            "actual_name": "Fear of Fire"
+        },
+        {
+            "developer_name": "Ghoul-Purple-L02",
+            "actual_name": "Fear of Drowning"
+        },
+        {
+            "developer_name": "WC_LostSoul_A_01",
+            "actual_name": "Fear of Gentle Breezes"
+        },
+        {
+            "developer_name": "WC_Ghoul_A_01",
+            "actual_name": "Buried Fear"
+        },
+        {
+            "developer_name": "Gobbler-Green-Fat-L02",
+            "actual_name": "Gobbler Gorger"
+        },
+        {
+            "developer_name": "Minion-Myth-00",
+            "actual_name": "Scarlet Screecher"
+        },
+        {
+            "developer_name": "Banshee-Red-L12",
+            "actual_name": "Scarlet Screamer"
+        },
+        {
+            "developer_name": "Ghost-Blue-L03",
+            "actual_name": "Vault Haunter"
+        },
+        {
+            "developer_name": "KrokPharaoh-IceTut-L03",
+            "actual_name": "Sokkwi Frostmancer"
+        },
+        {
+            "developer_name": "KrokTut-GuardIce-L04",
+            "actual_name": "Sokkwi High Guard"
+        },
+        {
+            "developer_name": "Ghost-Yellow-L04",
+            "actual_name": "Wandering Ahnic Spirit"
+        },
+        {
+            "developer_name": "KrokMummy-Storm-L04",
+            "actual_name": "Risen Djeserit"
+        },
+        {
+            "developer_name": "KrokSalamander-Storm-L03",
+            "actual_name": "Crazed Slave"
+        },
+        {
+            "developer_name": "Ghost-Yellow-L04-1",
+            "actual_name": "Karanahn Deathfeeder"
+        },
+        {
+            "developer_name": "KrokMummy-Storm-L04-1",
+            "actual_name": "Karanahn Mortifier"
+        },
+        {
+            "developer_name": "KrokPharaoh-StormCloth-L03",
+            "actual_name": "Karanahn Ravager"
         }
     ]
 }
